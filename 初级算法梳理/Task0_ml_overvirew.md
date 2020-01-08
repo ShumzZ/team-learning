@@ -105,7 +105,7 @@
 $$
 L(y,f(x)) =
 \begin{cases}
-0, & \text{y = f(x)}  \\
+0, & \text{y = f(x)}  &
 1, & \text{y $\neq$ f(x)}
 \end{cases}
 $$
